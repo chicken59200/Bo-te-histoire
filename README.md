@@ -11,7 +11,7 @@ Le principe est simple : une carte NFC correspond à une histoire. L’enfant ap
 * Carte microSD
 * Amplificateur MAX98357A
 * Haut-parleur
-* Boutons de commande
+* Boutons de commande ( induction)
 * Cartes NFC
 
 ⚙️ Fonctionnement
